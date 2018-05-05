@@ -4,7 +4,8 @@ CloudinaryGIF2VideoPlayer is a 2k script that swizzles all of your heavy animate
 
 This script allows you to dramatically reduce file size and memory and power consumption by using a more friendly mp4 delivery method. 
 
-##Example:
+
+##HTML Code Example:
 
 ```<!DOCTYPE html>
 <html>
