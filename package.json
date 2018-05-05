@@ -1,6 +1,6 @@
 {
   "name": "cloudinary-gif2video-player",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts all gif images on a page to inline mp4 videos",
   "main": "dist/index.js",
   "scripts": {
