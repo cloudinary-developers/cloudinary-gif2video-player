@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloudinary-developers/gif-player.git"
+    "url": "https://github.com/cloudinary-developers/cloudinary-gif2video-player.git"
   },
   "keywords": [
     "cloudinary",
@@ -20,7 +20,7 @@
   "author": "Dan Zeitman - Cloudinary",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cloudinary-developers/gif-player/issues"
+    "url": "https://github.com/cloudinary-developers/cloudinary-gif2video-player/issues"
   },
-  "homepage": "https://github.com/cloudinary-developers/gif-player#readme"
+  "homepage": "https://github.com/cloudinary-developers/cloudinary-gif2video-player#readme"
 }
