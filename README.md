@@ -14,7 +14,8 @@ Make sure you change the cloudname to your Cloudinary cloud name
 ```
 <script type="text/javascript" src="//unpkg.com/cloudinary-gif2video-player" cloudname="de-demo"></script>
 ```
-##Alternatively from npm 
+##Alternatively from npm:
+Make sure you change the cloudname to your Cloudinary cloud name 
 
 ```
 <script type="text/javascript" src="dist/index.js" cloudname="de-demo"></script>
