@@ -8,11 +8,19 @@ This script allows you to dramatically reduce file size and memory and power con
 [Cloudinary](http://www.cloudinary.com/signup "Cloudinary")
 
 #Usage:
-Include our library in your header:
+Include our library from from UNPKG cdn in your header:
+Make sure you change the cloudname to your Cloudinary cloud name
 
 ```
 <script type="text/javascript" src="//unpkg.com/cloudinary-gif2video-player" cloudname="de-demo"></script>
 ```
+##Alternatively from npm 
+
+```
+<script type="text/javascript" src="dist/index.js" cloudname="de-demo"></script>
+```
+
+
 
 ##HTML Code Example:
 
