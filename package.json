@@ -1,26 +1,17 @@
 {
-  "name": "cloudinary-gif2video-player",
+  "name": "gif-player-sdk",
   "version": "1.0.0",
-  "description": "Converts all gif images on a page to inline mp4 videos",
-  "main": "dist/index.js",
+  "description": "",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.7.0",
+    "webpack-cli": "^2.1.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cloudinary-developers/gif-player.git"
-  },
-  "keywords": [
-    "cloudinary",
-    "gif",
-    "video",
-    "image",
-    "processing"
-  ],
-  "author": "Dan Zeitman - Cloudinary",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cloudinary-developers/gif-player/issues"
-  },
-  "homepage": "https://github.com/cloudinary-developers/gif-player#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
