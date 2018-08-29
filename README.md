@@ -1,4 +1,4 @@
-#Cloudinary GIF2Video Player 
+# Cloudinary GIF2Video Player 
 
 Cloudinary GIF2Video Player is a 2k script that swizzles all of your heavy animated gif image tags and replaces them with html5 video tags using Cloudinary's fetch and transcode feature to convert the gifs to mp4.  
 
